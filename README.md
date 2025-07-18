@@ -4,7 +4,7 @@
 Soy ingeniera de sistemas, emprendedora y apasionada por la tecnología. Tengo más de 10 años de experiencia como freelancer y directora en **CodigoMu**, siempre aprendiendo nuevas tecnologías y compartiendo conocimiento.
 
 🚀 **Lo que hago**
-- 🔭 Actualmente dirijo **CodigoMu**, una academia tecnológica y consultora de desarrollo de software.
+- 🔭 Actualmente dirijo **ClicLike*+ academia tecnológica y **CodigoMu**,consultora de desarrollo de software.
 - 🌱 Estoy aprendiendo y trabajando con tecnologías web, seguridad de la información y desarrollo de soluciones personalizadas.
 - 👯 Busco colaborar con emprendedores, instituciones y empresas para impulsar proyectos tecnológicos.
 - 💬 Pregúntame sobre desarrollo web, Moodle, WordPress, pasarelas de pago y estrategias digitales.
@@ -12,9 +12,8 @@ Soy ingeniera de sistemas, emprendedora y apasionada por la tecnología. Tengo m
 - ⚡ Dato curioso: Me encanta capacitar y motivar a las personas para que usen la tecnología a su favor.
 
 📫 **Cómo contactarme**
-- ✉️ Correo: [tu correo aquí]
-- 🌐 Sitio web/portafolio: [tu web aquí]
-- 📄 [Ver mi CV](#) <!-- Pon aquí un enlace si lo tienes -->
+- ✉️ Correo: rbarcorosso@gmail.com
+- 🌐 Sitio web/portafolio: [codigomu.com]
 
 🔗 **Sígueme en mis redes**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roxana-barco-rosso/)
