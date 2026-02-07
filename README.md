@@ -1,3 +1,24 @@
+# Hi 👋 I'm Roxana
+
+💻 Systems Engineer | Full-Stack Developer  
+🎓 Master’s in Information Technology & Cybersecurity  
+
+## 🚀 About Me
+I build web applications and digital platforms that solve real problems.
+I have experience creating academic and administrative systems, including
+Moodle-based platforms, payment automation, and digital workflows.
+
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Python, FastAPI, Django
+- Databases: PostgreSQL, MySQL
+- Tools: Git, GitHub, Linux, Docker
+- Cloud: AWS (basic)
+
+## 📌 Featured Projects
+⬇️ Check my pinned repositories below
+
+
 # 👋 ¡Hola, soy Roxana Barco!
 
 🎓 **Sobre mí**  
