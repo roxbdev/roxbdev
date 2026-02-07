@@ -1,44 +1,73 @@
-🌍 README available in English | Español abajo
 # Hi 👋 I'm Roxana
 
-💻 Systems Engineer | Full-Stack Developer  
-🎓 Master’s in Information Technology & Cybersecurity  
+🌍 **README available in English | Español abajo**
 
-## 🚀 About Me
-I build web applications and digital platforms that solve real problems.
-I have experience creating academic and administrative systems, including
-Moodle-based platforms, payment automation, and digital workflows.
+---
+
+## 👩‍💻 About Me (EN)
+Systems Engineer and Full-Stack Developer with **5+ years of freelance experience**,
+specialized in **process automation, Artificial Intelligence, and cybersecurity-focused
+software solutions**.
+
+I am the **Founder of Cliclike (now Codigomu)**, a **software consulting company and tech academy**,
+where I design and build secure, scalable digital systems, automate business processes,
+and apply AI to optimize operations and decision-making.
+
+My background includes developing academic and administrative platforms, implementing
+secure backend architectures, integrating APIs, and applying **information security
+best practices** such as access control, data protection, and secure system design.
+
+## 🔐 Security & Cybersecurity Focus
+- Secure backend and API design
+- Authentication & authorization (RBAC, JWT)
+- Data protection and secure data handling
+- Security best practices in web applications
+- Basic cloud security (AWS)
+- Risk awareness and secure system architecture
+
+## 🧠 Areas of Focus
+- Process Automation
+- Artificial Intelligence (AI)
+- Cybersecurity & Secure Software Design
+- Backend & API Development
+- Full-Stack Web Applications
+- Software Consulting
+- Technical Education & Mentorship
 
 ## 🛠️ Tech Stack
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Python, FastAPI, Django
-- Databases: PostgreSQL, MySQL
-- Tools: Git, GitHub, Linux, Docker
-- Cloud: AWS (basic)
+- **Backend:** Python, FastAPI, Django  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Databases:** PostgreSQL, MySQL  
+- **AI & Automation:** Python Automation, Data Processing, AI Integration  
+- **Security:** Secure APIs, Authentication, Authorization, Data Protection  
+- **Tools:** Git, GitHub, Linux, Docker  
+- **Cloud:** AWS (basic)
 
 ## 📌 Featured Projects
 ⬇️ Check my pinned repositories below
 
+---
 
-# 👋 ¡Hola, soy Roxana Barco!
+## 👩‍💻 Sobre mí (ES)
+Ingeniera de Sistemas y Desarrolladora Full-Stack con **más de 5 años de experiencia como freelancer**,
+especializada en **automatización de procesos, Inteligencia Artificial y soluciones de software
+con enfoque en seguridad informática**.
 
-🎓 **Sobre mí**  
-Ingeniera de Sistemas, emprendedora y apasionada por la tecnología.
-Cuento con más de 10 años de experiencia como freelancer y directora en **Cliclike** (actualmente **CodigoMu**), liderando y desarrollando soluciones tecnológicas. Me caracterizo por el aprendizaje continuo, la innovación y la transferencia de conocimiento, y actualmente me encuentro actualizándome en el uso de Inteligencia Artificial aplicada a proyectos tecnológicos.
+Soy **fundadora de Cliclike (ahora Codigomu)**, una **consultoría de software y academia tecnológica**,
+donde diseño y desarrollo sistemas digitales **seguros y escalables**, automatizo procesos de negocio
+y aplico IA para optimizar operaciones y la toma de decisiones.
 
-🚀 Lo que hago
+Mi experiencia incluye el desarrollo de plataformas académicas y administrativas, la implementación
+de arquitecturas backend seguras, integración de APIs y la aplicación de **buenas prácticas de
+seguridad de la información**, como control de accesos, protección de datos y diseño seguro de sistemas.
 
-🔭 Actualmente dirijo CodigoMu, consultora de desarrollo de software y academia tecnológica.
+## 🔐 Enfoque en Seguridad Informática
+- Diseño seguro de APIs y backend
+- Autenticación y autorización de usuarios
+- Protección de datos y buenas prácticas de seguridad
+- Conciencia de riesgos y seguridad en aplicaciones web
+- Fundamentos de seguridad en la nube (AWS)
 
-🌱 Aprendo y trabajo constantemente con tecnologías web, seguridad de la información y desarrollo de soluciones personalizadas.
-
-👯 Busco colaborar con emprendedores, instituciones y empresas para impulsar proyectos tecnológicos de impacto.
-
-💬 Puedes preguntarme sobre desarrollo de software web y móvil, Moodle, WordPress, pasarelas de pago y estrategias digitales.
-
-🎓 Cuento con una Maestría en Tecnologías de la Información y Seguridad Informática.
-
-⚡ Dato curioso: disfruto capacitar y motivar a las personas para que usen la tecnología a su favor.
 
 📫 **Cómo contactarme**
 - ✉️ Correo: rbarcorosso@gmail.com
