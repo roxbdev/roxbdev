@@ -1,16 +1,16 @@
 # 👋 ¡Hola, soy Roxana Barco!
 
 🎓 **Sobre mí**  
-Soy ingeniera de sistemas, emprendedora y apasionada por la tecnología. Tengo más de 10 años de experiencia como freelancer y directora en **CodigoMu**, siempre aprendiendo nuevas tecnologías y compartiendo conocimiento.
+Ingeniera de Sistemas, emprendedora y apasionada por la tecnología.
+Cuento con más de 10 años de experiencia como freelancer y directora en **Cliclike** (actualmente **CodigoMu**), liderando y desarrollando soluciones tecnológicas. Me caracterizo por el aprendizaje continuo, la innovación y la transferencia de conocimiento, y actualmente me encuentro actualizándome en el uso de Inteligencia Artificial aplicada a proyectos tecnológicos.
 
-🚀 **Lo que hago**
-- 🔭 Actualmente dirijo **ClicLike*+ academia tecnológica y **CodigoMu**,consultora de desarrollo de software.
-- 🌱 Estoy aprendiendo y trabajando con tecnologías web, seguridad de la información y desarrollo de soluciones personalizadas.
-- 👯 Busco colaborar con emprendedores, instituciones y empresas para impulsar proyectos tecnológicos.
-- 💬 Pregúntame sobre desarrollo web, Moodle, WordPress, pasarelas de pago y estrategias digitales.
-- 🎓 Maestría en Tecnologías de la Información y Seguridad Informática.
-- ⚡ Dato curioso: Me encanta capacitar y motivar a las personas para que usen la tecnología a su favor.
-
+🚀 Lo que hago
+🔭 Actualmente dirijo CodigoMu, consultora de desarrollo de software y academia tecnológica.
+🌱 Aprendo y trabajo constantemente con tecnologías web, seguridad de la información y desarrollo de soluciones personalizadas.
+👯 Busco colaborar con emprendedores, instituciones y empresas para impulsar proyectos tecnológicos de impacto.
+💬 Puedes preguntarme sobre desarrollo de software web y móvil, Moodle, WordPress, pasarelas de pago y estrategias digitales.
+🎓 Cuento con una Maestría en Tecnologías de la Información y Seguridad Informática.
+⚡ Dato curioso: disfruto capacitar y motivar a las personas para que usen la tecnología a su favor.
 📫 **Cómo contactarme**
 - ✉️ Correo: rbarcorosso@gmail.com
 - 🌐 Sitio web/portafolio: [codigomu.com]
