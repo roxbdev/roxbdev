@@ -1,8 +1,18 @@
-# Hi 👋 I'm Roxana
+<h1 align="center">Hi 👋 I'm Roxana</h1>
 
-🌍 **README available in English | Español abajo**
+<p align="center">
+  <strong>Software Consultant</strong> · Automation · AI · Cybersecurity<br>
+  Founder @ Codigomu · 5+ Years Freelance Experience
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/TU_LINK">LinkedIn</a> ·
+  <a href="mailto:TUCORREO@email.com">Email</a>
+</p>
 
 ---
+
+🌍 **README available in English | Español abajo**
 
 ## 👩‍💻 About Me (EN)
 Systems Engineer and Full-Stack Developer with **5+ years of freelance experience**,
@@ -13,17 +23,12 @@ I am the **Founder of Cliclike (now Codigomu)**, a **software consulting company
 where I design and build secure, scalable digital systems, automate business processes,
 and apply AI to optimize operations and decision-making.
 
-My background includes developing academic and administrative platforms, implementing
-secure backend architectures, integrating APIs, and applying **information security
-best practices** such as access control, data protection, and secure system design.
-
 ## 🔐 Security & Cybersecurity Focus
 - Secure backend and API design
-- Authentication & authorization (RBAC, JWT)
-- Data protection and secure data handling
-- Security best practices in web applications
+- Authentication & authorization (JWT, RBAC)
+- Data protection and secure system architecture
+- Web application security best practices
 - Basic cloud security (AWS)
-- Risk awareness and secure system architecture
 
 ## 🧠 Areas of Focus
 - Process Automation
@@ -39,7 +44,7 @@ best practices** such as access control, data protection, and secure system desi
 - **Frontend:** HTML, CSS, JavaScript, React  
 - **Databases:** PostgreSQL, MySQL  
 - **AI & Automation:** Python Automation, Data Processing, AI Integration  
-- **Security:** Secure APIs, Authentication, Authorization, Data Protection  
+- **Security:** Secure APIs, Authentication, Authorization  
 - **Tools:** Git, GitHub, Linux, Docker  
 - **Cloud:** AWS (basic)
 
@@ -56,17 +61,6 @@ con enfoque en seguridad informática**.
 Soy **fundadora de Cliclike (ahora Codigomu)**, una **consultoría de software y academia tecnológica**,
 donde diseño y desarrollo sistemas digitales **seguros y escalables**, automatizo procesos de negocio
 y aplico IA para optimizar operaciones y la toma de decisiones.
-
-Mi experiencia incluye el desarrollo de plataformas académicas y administrativas, la implementación
-de arquitecturas backend seguras, integración de APIs y la aplicación de **buenas prácticas de
-seguridad de la información**, como control de accesos, protección de datos y diseño seguro de sistemas.
-
-## 🔐 Enfoque en Seguridad Informática
-- Diseño seguro de APIs y backend
-- Autenticación y autorización de usuarios
-- Protección de datos y buenas prácticas de seguridad
-- Conciencia de riesgos y seguridad en aplicaciones web
-- Fundamentos de seguridad en la nube (AWS)
 
 
 📫 **Cómo contactarme**
@@ -91,12 +85,6 @@ seguridad de la información**, como control de accesos, protección de datos y 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-⭐ **Estadísticas**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoxDev&layout=compact&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RoxDev&show_icons=true&theme=radical)
 
 ---
 
